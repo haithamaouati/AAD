@@ -4,7 +4,7 @@
 ![logo](https://raw.githubusercontent.com/haithamaouati/AAD/main/logo.png)
 
 ## Download
-[![download](https://img.shields.io/badge/download-APK-brightgreen?style=social)](https://raw.githubusercontent.com/haithamaouati/AAD/main/AAD.apk)
+[![download](https://img.shields.io/badge/download-APK-brightgreen?style=social)](https://raw.githubusercontent.com/haithamaouati/AAD/main/aad.apk)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/haithamaouati/AAD/main/screenshot.jpg)
